@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b2678c23982b44780e464930b6dc3a, type: 3}
+  m_Name: Weapon Handle Data
+  m_EditorClassIdentifier: 
+  localPosition: {x: 0.236, y: 0.015, z: -0.38}
+  localRotation: {x: 1112.5, y: -110.6, z: -267.8}
+  localScale: {x: 1, y: 1.5, z: 1}
